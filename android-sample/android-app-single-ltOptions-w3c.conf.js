@@ -20,7 +20,7 @@ exports.config = {
           name: "android_ltOptions",
           isRealMobile: true,
           visual: true,
-          app: process.env.LT_APP_ID||"lt://APP1016029691707325023010601",
+          app: process.env.LT_APP_ID||"lt://XXXXXXXXXXXX",    // You need to give your application id
           platformName: "Android",
           enableCustomTranslation: true,
         }
